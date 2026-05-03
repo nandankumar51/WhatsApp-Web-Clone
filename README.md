@@ -68,7 +68,7 @@ frontend/
 ## 📊 Diagrams  
 
 ### 🧩 ER Diagram  
-![ER Diagram](./assets/ER.jpeg)
+![ER Diagram](./ER.jpeg)
 
 ---
 
