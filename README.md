@@ -1,22 +1,21 @@
-# 🚀 WhatsApp Web Clone
+# WhatsApp Web Clone
 
-## 🔗 Live Demo  
-👉 https://whatsapp-clone-five-murex.vercel.app
+## Live Demo  
+https://whatsapp-clone-five-murex.vercel.app
 
 ---
 
-## 📌 Overview  
+## Overview  
 A full-stack real-time chat application inspired by WhatsApp Web, built using **Node.js, Express, React, MongoDB, and Socket.IO**.
 
 This project demonstrates:
 - Real-time communication  
-- Clean API design  
 - Scalable architecture  
 - Full-stack integration  
 
 ---
 
-## ✨ Key Features  
+## Key Features  
 
 - User authentication (JWT-based)  
 - One-to-one chat system  
@@ -29,7 +28,7 @@ This project demonstrates:
 
 ---
 
-## 🧱 Tech Stack  
+## Tech Stack  
 
 ### Frontend
 - React.js  
@@ -45,7 +44,7 @@ This project demonstrates:
 
 ---
 
-## 📂 Project Structure  
+## Project Structure  
 
 ```bash
 backend/
