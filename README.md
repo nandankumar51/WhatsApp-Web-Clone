@@ -63,6 +63,20 @@ frontend/
   └── public/
 ```
 
+---
+
+## 📊 Diagrams  
+
+### 🧩 ER Diagram  
+![ER Diagram](./assets/ER.jpeg)
+
+---
+
+### 🏗️ Architecture Diagram  
+![Architecture Diagram](./assets/architecture-diagram.png)
+
+---
+
 ## Run Locally
 
 ### Clone the Repository
