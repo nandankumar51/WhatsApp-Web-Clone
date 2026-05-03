@@ -61,3 +61,26 @@ frontend/
   │   ├── pages/
   │   └── services/
   └── public/
+```
+
+## Run Locally
+
+### Clone the Repository
+```bash
+git clone https://github.com/nandankumar51/WhatsApp-Web-Clone.git
+cd WhatsApp-Web-Clone
+```
+
+```bash
+### Backend
+cd backend
+npm install
+npm run dev
+```
+
+```bash
+### Frontend
+cd frontend
+npm install
+npm start
+```
