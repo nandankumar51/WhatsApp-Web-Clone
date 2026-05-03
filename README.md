@@ -85,15 +85,16 @@ git clone https://github.com/nandankumar51/WhatsApp-Web-Clone.git
 cd WhatsApp-Web-Clone
 ```
 
-```bash
 ### Backend
+```bash
 cd backend
 npm install
 npm run dev
 ```
 
-```bash
+
 ### Frontend
+```bash
 cd frontend
 npm install
 npm start
