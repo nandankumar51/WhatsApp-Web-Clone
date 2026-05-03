@@ -73,7 +73,7 @@ frontend/
 ---
 
 ### 🏗️ Architecture Diagram  
-![Architecture Diagram](./assets/architecture-diagram.png)
+![Architecture Diagram](./Arch.jpeg)
 
 ---
 
