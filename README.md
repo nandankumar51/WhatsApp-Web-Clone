@@ -1,52 +1,63 @@
-# WhatsApp Web Clone
+# 🚀 WhatsApp Web Clone
 
-A full-stack real-time chat application built with Node.js, Express, React, MongoDB, and Socket.IO.
+## 🔗 Live Demo  
+👉 https://whatsapp-clone-five-murex.vercel.app
 
-## What it does
+---
 
-- User registration and login
-- One-to-one chat creation
-- Real-time messaging with Socket.IO
-- Message history stored in MongoDB
-- Online/offline presence updates
-- Responsive WhatsApp-style UI
+## 📌 Overview  
+A full-stack real-time chat application inspired by WhatsApp Web, built using **Node.js, Express, React, MongoDB, and Socket.IO**.
 
-## Project Layout
+This project demonstrates:
+- Real-time communication  
+- Clean API design  
+- Scalable architecture  
+- Full-stack integration  
 
-- `backend/` - Express API, Socket.IO server, MongoDB models
-- `frontend/` - React app and chat UI
+---
 
-## Run Locally
+## ✨ Key Features  
 
-### Backend
-```bash
-cd backend
-npm install
-npm run dev
-```
+- User authentication (JWT-based)  
+- One-to-one chat system  
+- Real-time messaging using Socket.IO  
+- Persistent chat history (MongoDB)  
+- Online/offline presence tracking  
+- Responsive WhatsApp-style UI  
+- Auto-scroll to latest messages  
+- Clear distinction between sent & received messages  
+
+---
+
+## 🧱 Tech Stack  
 
 ### Frontend
+- React.js  
+- React Router  
+- Axios  
+- CSS / UI framework  
+
+### Backend
+- Node.js  
+- Express.js  
+- Socket.IO  
+- MongoDB (Mongoose)  
+
+---
+
+## 📂 Project Structure  
+
 ```bash
-cd frontend
-npm install
-npm start
-```
+backend/
+  ├── models/
+  ├── routes/
+  ├── controllers/
+  ├── socket/
+  └── server.js
 
-## Environment
-
-Backend uses a local MongoDB database if `MONGODB_URI` is set in `backend/.env`.
-
-Example:
-```env
-MONGODB_URI=mongodb://localhost:27017/humble-tree
-PORT=5001
-HOST=0.0.0.0
-JWT_SECRET=replace_with_a_long_random_secret
-CLIENT_URL=http://localhost:3000
-```
-
-## Notes
-
-- Backend defaults to port `5001`
-- Frontend expects the backend at `http://localhost:5001`
-- If MongoDB is unavailable, the backend can fall back to local JSON storage
+frontend/
+  ├── src/
+  │   ├── components/
+  │   ├── pages/
+  │   └── services/
+  └── public/
