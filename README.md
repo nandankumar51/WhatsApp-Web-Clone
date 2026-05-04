@@ -66,12 +66,12 @@ frontend/
 
 ## 📊 Diagrams  
 
-### 🧩 ER Diagram  
+### ER Diagram  
 ![ER Diagram](./ER.jpeg)
 
 ---
 
-### 🏗️ Architecture Diagram  
+### Architecture Diagram  
 ![Architecture Diagram](./Arch.jpeg)
 
 ---
