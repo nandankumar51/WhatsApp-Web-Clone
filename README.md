@@ -77,10 +77,16 @@ frontend/
 ---
 
 ### Environment Variables  
-![Environment Variables ](./EV.jpeg)
+![Environment Variables](./EV.jpeg)
 
 ---
 
+### Live Demo
+![Page1](./Page1.jpeg)
+![Page2](./Page2.jpeg)
+![Page3](./Page3.jpeg)
+
+---
 
 ## Run Locally
 
