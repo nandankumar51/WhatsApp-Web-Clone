@@ -60,6 +60,7 @@ frontend/
   │   ├── pages/
   │   └── services/
   └── public/
+
 ```
 
 ---
@@ -67,24 +68,24 @@ frontend/
 ## 📊 Diagrams  
 
 ### ER Diagram  
-![ER Diagram](./ER.jpeg)
+![ER Diagram](./images/ER.jpeg)
 
 ---
 
 ### Architecture Diagram  
-![Architecture Diagram](./Arch.jpeg)
+![Architecture Diagram](./images/Arch.jpeg)
 
 ---
 
 ### Environment Variables  
-![Environment Variables](./EV.jpeg)
+![Environment Variables](./images/EV.jpeg)
 
 ---
 
 ### Live Demo
-![Page1](./Page1.jpeg)
-![Page2](./Page2.jpeg)
-![Page3](./Page3.jpeg)
+![Page1](./images/Page1.jpeg)
+![Page2](./images/Page2.jpeg)
+![Page3](./images/Page3.jpeg)
 
 ---
 
