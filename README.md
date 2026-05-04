@@ -71,6 +71,13 @@ frontend/
 
 ---
 
+---
+### Environment Variables  
+![Environment Variables ](./EV.jpeg)
+
+---
+
+
 ### 🏗️ Architecture Diagram  
 ![Architecture Diagram](./Arch.jpeg)
 
