@@ -76,7 +76,6 @@ frontend/
 
 ---
 
----
 ### Environment Variables  
 ![Environment Variables ](./EV.jpeg)
 
