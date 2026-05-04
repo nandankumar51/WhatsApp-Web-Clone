@@ -71,17 +71,17 @@ frontend/
 
 ---
 
+### 🏗️ Architecture Diagram  
+![Architecture Diagram](./Arch.jpeg)
+
+---
+
 ---
 ### Environment Variables  
 ![Environment Variables ](./EV.jpeg)
 
 ---
 
-
-### 🏗️ Architecture Diagram  
-![Architecture Diagram](./Arch.jpeg)
-
----
 
 ## Run Locally
 
